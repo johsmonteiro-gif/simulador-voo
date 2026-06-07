@@ -5,5 +5,3 @@ renderizar globo 3D com Cesium
 criar avião em latitude:-3 longitude:-60 altitude:1000
 controles: subir, descer, viraresquerda, virardireita, acelerar
 mostrar HUD: altitude, velocidade, coordenadas
-clima: usar OpenWeatherMap
-publicar em GitHubPages

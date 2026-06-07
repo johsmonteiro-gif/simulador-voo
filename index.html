@@ -1,11 +1,17 @@
 <!DOCTYPE html>
 <html>
 <head>
+  <meta charset="utf-8">
   <title>Simulador de Voo</title>
   <link rel="stylesheet" href="hud.css">
-  <script src="tradutor.js"></script>
 </head>
 <body>
-  <div id="cesiumContainer"></div>
+  <div id="cesiumContainer" style="width:100%;height:100vh;"></div>
+  <div id="hud">
+    Altitude: <span id="altitude">1000</span> m<br>
+    Velocidade: <span id="speed">250</span> km/h<br>
+    Coordenadas: <span id="coords">-3, -60</span>
+  </div>
+  <script src="tradutor.js"></script>
 </body>
 </html>
