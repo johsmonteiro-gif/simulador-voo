@@ -20,3 +20,10 @@ usando APIs gratuitas e uma DSL em português.
 - Criado arquivo **simulador.voo** com comandos em português.
 - Implementado **tradutor.js** que converte DSL para JavaScript.
 - HUD agora recebe dados dinâmicos de altitude, velocidade e coordenadas.
+
+## Resumo da Jornada
+- Missão 1: Ambiente Termux configurado.
+- Missão 2: Repositório GitHub criado e sincronizado, Pages ativado.
+- Missão 3: HUD automático com altitude, velocidade e coordenadas.
+- Missão 3.1: Teste da DSL e integração com tradutor.js.
+- Missão 3.2: Teste local com servidor HTTP funcionando.
